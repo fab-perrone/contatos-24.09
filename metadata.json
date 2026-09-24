@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Contatos",
+  "description": "Sistema completo para armazenamento, organização e gerenciamento de contatos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
